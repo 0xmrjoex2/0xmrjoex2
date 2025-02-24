@@ -1,4 +1,4 @@
-# Cybersecurity Expert, Bug Bounty Hunter, and Programmer
+# Cybersecurity Expert - Bug Bounty Hunter - Malware Developer
 
 ---
 
